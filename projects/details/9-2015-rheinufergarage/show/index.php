@@ -173,7 +173,7 @@
 
                 ?>
 
-                <a href="index.php?id=<?php echo $rowimg['id']; ?>" class="related-projects__project"><span class="related-projects__project-name"><?php echo $rowimg['blogtitle']; ?><br></span><img src="<?php echo $expimgss; ?>"></a>
+                <a href="index.php?id=<?php echo $rowimg['id']; ?>" class="related-projects__project related-projects__title-wrapper"><span class="related-projects__project-name"><?php echo $rowimg['blogtitle']; ?><br></span><img src="<?php echo $expimgss; ?>"></a>
 
                 <?php  } } $imgcount++; } ?>
 
