@@ -178,10 +178,10 @@ body a {
 
 .navbar .navbar-nav li .dropdown-toggle.avatar img {
     height: 40px;
-    -webkit-border-radius: 50em;
+    /*-webkit-border-radius: 50em;
     -moz-border-radius: 50em;
     border-radius: 50em;
-    border: 1px solid #c0cadd;
+    border: 1px solid #c0cadd;*/
     margin-top: -4px;
 }
 

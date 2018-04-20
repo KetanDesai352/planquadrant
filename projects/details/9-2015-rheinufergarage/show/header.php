@@ -17,7 +17,7 @@
     </div>
     <header class="main-header">
         <div class="page-container logo-container">
-            <a href="../index.php#showIntro" class="logo"><img src="/en/img/logo.png" alt="Planquadrat"></a>
+            <a href="../index.php#showIntro" class="logo"><img src="/planquadrant/img/logo.png" alt="Planquadrat"></a>
         </div><a class="navigation--toggle">Menu</a>
         <nav class="navigation">
             <form action="" class="navigation--search-form">
