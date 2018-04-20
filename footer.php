@@ -78,28 +78,28 @@
             
             <nav class="footer">
                 <ul class="footer-navigation">
-                    <li class="footer-navigation--block"><a href="/en/profile/index.php" class="footer-navigation--link__level1">Profile</a>
+                    <li class="footer-navigation--block"><a href="/planquadrant/profile/index.php" class="footer-navigation--link__level1">Profile</a>
                         <ul>
-                            <li><a href="/en/profile/pq-story/index.php">pq Story</a></li>
-                            <li><a href="/en/profile/pq-international/index.php">pq international</a></li>
-                            <li><a href="/en/profile/services/index.php">Services</a></li>
-                            <li><a href="/en/profile/clients/index.php">Clients</a></li>
-                            <li><a href="/en/profile/awards/index.php">Awards</a></li>
+                            <li><a href="/planquadrant/profile/pq-story/index.php">pq Story</a></li>
+                            <li><a href="/planquadrant/profile/pq-international/index.php">pq international</a></li>
+                            <li><a href="/planquadrant/profile/services/index.php">Services</a></li>
+                            <li><a href="/planquadrant/profile/clients/index.php">Clients</a></li>
+                            <li><a href="/planquadrant/profile/awards/index.php">Awards</a></li>
                         </ul>
                     </li>
-                    <li class="footer-navigation--block"><a href="/en/projects/index.php" class="footer-navigation--link__level1">Projects</a></li>
-                    <li class="footer-navigation--block"><a href="/en/people/index.php" class="footer-navigation--link__level1">People</a>
+                    <li class="footer-navigation--block"><a href="/planquadrant/projects/index.php" class="footer-navigation--link__level1">Projects</a></li>
+                    <li class="footer-navigation--block"><a href="/planquadrant/people/index.php" class="footer-navigation--link__level1">People</a>
                         <ul>
-                            <li><a href="/en/people/partner/index.php">Partner</a></li>
+                            <li><a href="/planquadrant/people/partner/index.php">Partner</a></li>
                             
-                            <li><a href="/en/people/team/index.php">Team</a></li>
-                            <li><a href="/en/pin-board/career/index.php">Career</a></li>
+                            <li><a href="/planquadrant/people/team/index.php">Team</a></li>
+                            <li><a href="/planquadrant/pin-board/career/index.php">Career</a></li>
                         </ul>
                     </li>
-                    <li class="footer-navigation--block"><a href="/en/pin-board/news/index.php" class="footer-navigation--link__level1">Pin board</a>
+                    <li class="footer-navigation--block"><a href="/planquadrat/pin-board/news/index.php" class="footer-navigation--link__level1">Pin board</a>
                         <ul>
-                            <li><a href="/en/pin-board/career/index.php">Career</a></li>
-                            <li><a href="/en/pin-board/press/index.php">Press</a></li>
+                            <li><a href="/planquadrant/pin-board/career/index.php">Career</a></li>
+                            <li><a href="/planquadrant/pin-board/press/index.php">Press</a></li>
                         </ul>
                     </li>
                 </ul>
