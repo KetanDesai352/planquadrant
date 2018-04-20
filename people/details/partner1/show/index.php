@@ -63,98 +63,10 @@
 </head>
 
 <body>
-    <div class="navigation__mobile hidden-sm hidden-md hidden-lg">
-        <nav class="navigation">
-            <form action="" class="navigation--search-form">
-                <input type="search" name="tx_vierwdindexedsearch_pi2[search][sword]" required placeholder="Search">
-                <button type="submit">Search</button>
-            </form><a class="navigation--close">×</a>
-            <div class="navigation--row">
-                <ul class="navigation--main page-container">
-                    <li><a href="../../../../index.html" class="navigation--main-link">Start</a></li>
-                    <li><a href="../../../../profile/index.html" class="navigation--main-link">Profile</a></li>
-                    <li><a href="../../../../projects/index.html" class="navigation--main-link">Projects</a></li>
-                    <li><a href="../../../index.html" class="navigation--main-link active">People</a>
-                        <ul class="navigation--mobile-submenu visible-xs">
-                            <li><a href="../../../partner/index.html" class="navigation--main-link">Partner</a></li>
-                            <li><a href="../../../management/index.html" class="navigation--main-link">Management</a></li>
-                            
-                            <li><a href="../../../team/index.html" class="navigation--main-link active">Team</a></li>
-                            <li><a href="../../../team/index.html" class="navigation--filter-value">lorem<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 20 20">
-	<line x1="0" y1="0" x2="100%" y2="100%"></line>
-	<line x1="100%" y1="0" x2="0" y2="100%"></line>
-</svg></a></li>
-                            <li><a href="../../../../pin-board/career/index.html" class="navigation--main-link">Career</a></li>
-                            
-                        </ul>
-                    </li>
-                    <li><a href="../../../../pin-board/news/index.html" class="navigation--main-link">Pin board</a></li>
-                    <li><a href="" class="navigation--main-link">Contact Us</a>
-                </ul>
-            </div>
-            <div class="navigation--row hidden-xs">
-                <ul class="navigation--submenu page-container">
-                    <li><a href="../../../partner/index.html" class="navigation--submenu-link">Partner</a></li>
-                    <li><a href="../../../management/index.html" class="navigation--submenu-link">Management</a></li>
-                    
-                    <li><a href="../../../team/index.html" class="navigation--submenu-link active">Team</a></li>
-                    <li><a href="../../../team/index.html" class="navigation--filter-value">lorem<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 20 20">
-	<line x1="0" y1="0" x2="100%" y2="100%"></line>
-	<line x1="100%" y1="0" x2="0" y2="100%"></line>
-</svg></a></li>
-                    <li><a href="../../../../pin-board/career/index.html" class="navigation--submenu-link">Career</a></li>
-                </ul>
-            </div>
-        </nav>
-    </div>
-    <header class="main-header">
-        <div class="page-container logo-container">
-            <a href="../../../../index.html#showIntro" class="logo"><img src="../../../../img/logo.png" alt="Planquadrat"></a>
-        </div><a class="navigation--toggle">Menü</a>
-        <nav class="navigation">
-            <form action="" class="navigation--search-form">
-                <input type="search" name="tx_vierwdindexedsearch_pi2[search][sword]" required placeholder="Search">
-                <button type="submit">Search</button>
-            </form><a href="#" class="navigation--close">×</a>
-            <div class="navigation--row">
-                <ul class="navigation--main page-container">
-                    <li><a href="../../../../index.html" class="navigation--main-link">Start</a></li>
-                    <li><a href="../../../../profile/index.html" class="navigation--main-link">Profile</a></li>
-                    <li><a href="../../../../projects/index.html" class="navigation--main-link">Projects</a></li>
-                    <li><a href="../../../index.html" class="navigation--main-link active">People</a>
-                        <ul class="navigation--mobile-submenu visible-xs">
-                            <li><a href="../../../partner/index.html" class="navigation--main-link">Partner</a></li>
-                            <li><a href="../../../management/index.html" class="navigation--main-link">Management</a></li>
-                           
-                            <li><a href="../../../team/index.html" class="navigation--main-link active">Team</a></li>
-                            <li><a href="../../../team/index.html" class="navigation--filter-value">Partner <svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 20 20">
-	<line x1="0" y1="0" x2="100%" y2="100%"></line>
-	<line x1="100%" y1="0" x2="0" y2="100%"></line>
-</svg></a></li>
-                            <li><a href="../../../../pin-board/career/index.html" class="navigation--main-link">Career</a></li>
-                            
-                        </ul>
-                    </li>
-                    <li><a href="../../../../pin-board/news/index.html" class="navigation--main-link">Pin board</a></li>
-                    <li><a href="" class="navigation--main-link">Contact Us</a>
-                </ul>
-            </div>
-            <div class="navigation--row hidden-xs">
-                <ul class="navigation--submenu page-container">
-                    <li><a href="../../../partner/index.html" class="navigation--submenu-link active">Partner</a></li>
-                    <li><a href="../../../partner/index.html" class="navigation--filter-value">lorem<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 20 20">
-	<line x1="0" y1="0" x2="100%" y2="100%"></line>
-	<line x1="100%" y1="0" x2="0" y2="100%"></line>
-</svg></a></li>
-                    <li><a href="../../../management/index.html" class="navigation--submenu-link">Management</a></li>
-                   
-                    <li><a href="../../../team/index.html" class="navigation--submenu-link ">Team</a></li>
-                    
-                    <li><a href="../../../../pin-board/career/index.html" class="navigation--submenu-link">Career</a></li>
-                </ul>
-            </div>
-        </nav>
-    </header>
+    
+    <?php include('../../../header.php');?>
+
+
     <div class="site-wrap">
         <div class="page-container main-content main-content__submenu-visible">
             <!--TYPO3SEARCH_begin-->

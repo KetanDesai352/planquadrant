@@ -109,7 +109,7 @@
                             <p>Duo nostro possim timeam ne, movet gloriatur in est, no eos graecis persecuti. Malis regione elaboraret sed ei, eam movet verear ne. Oratio perpetua salutandi ut cum, qui ea sint platonem, exerci feugait mentitum in usu. Vel cu idque integre, eum minim ocurreret et. Quo id tollit assentior. Te meis graeci dolorem has, no legere.</p>
                         </div>
                     </div>
-                </div><a href="../details/partner1/show/index.html" class="persons--person persons--person__square"><span class="persons--person-name">Lorem pusm</span><img src="../../img/pic1.jpg"></a><a href="../details/partner1/show/index.html" class="persons--person persons--person__square"><span class="persons--person-name">Lorem Epusm</span><img src="../../img/pic1.jpg"></a><a href="../details/partner1/show/index.html" class="persons--person persons--person__square"><span class="persons--person-name">Lorem Epsum</span><img src="../../img/pic1.jpg"></a>
+                </div><a href="../details/partner1/show/index.php" class="persons--person persons--person__square"><span class="persons--person-name">Lorem pusm</span><img src="../../img/pic1.jpg"></a><a href="../details/partner1/show/index.php" class="persons--person persons--person__square"><span class="persons--person-name">Lorem Epusm</span><img src="../../img/pic1.jpg"></a><a href="../details/partner1/show/index.php" class="persons--person persons--person__square"><span class="persons--person-name">Lorem Epsum</span><img src="../../img/pic1.jpg"></a>
                 <a id="c77"></a>
                 <a id="c754"></a>
                 <div class="card  card__text card__square">
@@ -117,7 +117,7 @@
                         <div class="card--container-content">
                             <h2>Lorem Epsum<br />text content<br />and paragraphs</h2></div>
                     </div>
-                </div><a href="../details/partner1/show/index.html" class="persons--person persons--person__square"><span class="persons--person-name">Lorem Epsum</span><img src="../../img/pic1.jpg"></a><a href="../details/partner1/show/index.html" class="persons--person persons--person__square"><span class="persons--person-name">Lorem Epsum</span><img src="../../img/pic1.jpg"></a></div>
+                </div><a href="../details/partner1/show/index.php" class="persons--person persons--person__square"><span class="persons--person-name">Lorem Epsum</span><img src="../../img/pic1.jpg"></a><a href="../details/partner1/show/index.php" class="persons--person persons--person__square"><span class="persons--person-name">Lorem Epsum</span><img src="../../img/pic1.jpg"></a></div>
 
         </div>
         <?php include('../../footer.php');?>
