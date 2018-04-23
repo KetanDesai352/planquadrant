@@ -13,7 +13,7 @@
                             <li><a href="pq-international/index.php" class="navigation--main-link">pq international</a></li>
                             <li><a href="services/index.php" class="navigation--main-link">Services</a></li>
                             <li><a href="clients/index.php" class="navigation--main-link">Clients</a></li>
-                            <li><a href="awards/index.php" class="navigation--main-link">Awards</a></li>
+                            <li><a href="awards/international-awards.php" class="navigation--main-link">Awards</a></li>
                             
                    
                         </ul>
@@ -33,7 +33,7 @@
                     <li><a href="pq-international/index.php" class="navigation--main-link">pq international</a></li>
                     <li><a href="services/index.php" class="navigation--submenu-link">Services</a></li>
                     <li><a href="clients/index.php" class="navigation--submenu-link">Clients</a></li>
-                    <li><a href="awards/index.php" class="navigation--submenu-link">Awards</a></li>
+                    <li><a href="awards/international-awards.php" class="navigation--submenu-link">Awards</a></li>
                 </ul>
             </div>
         </nav>
@@ -43,7 +43,7 @@
             <a href="../index.php#showIntro" class="logo"><img src="../img/logo.png" alt="Planquadrat"></a>
         </div><a class="navigation--toggle">Menu</a>
         <nav class="navigation">
-            <form action="http://www.planquadrat.com/en/suche/" class="navigation--search-form">
+            <form action="" class="navigation--search-form">
                 <input type="search" name="tx_vierwdindexedsearch_pi2[search][sword]" required placeholder="Search">
                 <button type="submit">Search</button>
             </form><a href="#" class="navigation--close">×</a>
@@ -57,7 +57,7 @@
                             <li><a href="pq-international/index.php" class="navigation--main-link">pq international</a></li>
                             <li><a href="services/index.php" class="navigation--main-link">Services</a></li>
                             <li><a href="clients/index.php" class="navigation--main-link">Clients</a></li>
-                            <li><a href="awards/index.php" class="navigation--main-link">Awards</a></li>
+                            <li><a href="awards/international-awards.php" class="navigation--main-link">Awards</a></li>
   
                         </ul>
                     </li>
@@ -74,7 +74,7 @@
                     <li><a href="pq-international/index.php" class="navigation--main-link">pq international</a></li>
                     <li><a href="services/index.php" class="navigation--submenu-link">Services</a></li>
                     <li><a href="clients/index.php" class="navigation--submenu-link">Clients</a></li>
-                    <li><a href="awards/index.php" class="navigation--submenu-link">Awards</a></li>
+                    <li><a href="awards/international-awards.php" class="navigation--submenu-link">Awards</a></li>
                 </ul>
             </div>
         </nav>

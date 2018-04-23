@@ -13,9 +13,9 @@
                          <li><a href="../pq-international/index.php" class="navigation--main-link">pq international</a></li>
                             <li><a href="../services/index.php" class="navigation--main-link">Services</a></li>
                             <li><a href="../clients/index.php" class="navigation--main-link">Clients</a></li>
-                            <li><a href="index.php#awards-filter" class="navigation--filter-toggle navigation--filter-toggle__active">Awards<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 51 20">
+                            <li><a href="international-awards.php" class="navigation--filter-toggle navigation--filter-toggle__active">Awards<!--svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 51 20">
     <polyline points="2,2 26,17 49,2"></polyline>
-</svg></a></li>
+</svg--></a></li>
                           
                         </ul>
                     </li>
@@ -31,9 +31,9 @@
                     <li><a href="../pq-international/index.php" class="navigation--main-link">pq international</a></li>
                     <li><a href="../services/index.php" class="navigation--submenu-link">Services</a></li>
                     <li><a href="../clients/index.php" class="navigation--submenu-link">Clients</a></li>
-                    <li><a href="index.php#awards-filter" class="navigation--filter-toggle navigation--filter-toggle__active">Awards<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 51 20">
+                    <li><a href="international-awards.php" class="navigation--filter-toggle navigation--filter-toggle__active">Awards<!--svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 51 20">
     <polyline points="2,2 26,17 49,2"></polyline>
-</svg></a></li>
+</svg--></a></li>
                 </ul>
             </div>
         </nav>
@@ -41,7 +41,7 @@
     <header class="main-header">
         <div class="page-container logo-container">
             <a href="../../index.php#showIntro" class="logo"><img src="../../img/logo.png" alt="Planquadrat"></a>
-        </div><a class="navigation--toggle">Menü</a>
+        </div><a class="navigation--toggle">Menu</a>
         <nav class="navigation">
             <form action="http://www.planquadrat.com/en/suche/" class="navigation--search-form">
                 <input type="search" name="tx_vierwdindexedsearch_pi2[search][sword]" required placeholder="Search">
@@ -56,9 +56,9 @@
                             <li><a href="../pq-international/index.php" class="navigation--main-link">pq international</a></li>
                             <li><a href="../services/index.php" class="navigation--main-link">Services</a></li>
                             <li><a href="../clients/index.php" class="navigation--main-link">Clients</a></li>
-                            <li><a href="index.php#awards-filter" class="navigation--filter-toggle navigation--filter-toggle__active">Awards<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 51 20">
+                            <li><a href="international-awards.php" class="navigation--filter-toggle navigation--filter-toggle__active">Awards<!--svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 51 20">
     <polyline points="2,2 26,17 49,2"></polyline>
-</svg></a></li>
+</svg--></a></li>
                           
                         </ul>
                     </li>
@@ -74,12 +74,12 @@
                     <li><a href="../pq-international/index.php" class="navigation--main-link">pq international</a></li>
                     <li><a href="../services/index.php" class="navigation--submenu-link">Services</a></li>
                     <li><a href="../clients/index.php" class="navigation--submenu-link">Clients</a></li>
-                    <li><a href="index.php#awards-filter" class="navigation--filter-toggle navigation--filter-toggle__active">Awards<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 51 20">
+                    <li><a href="international-awards.php" class="navigation--filter-toggle navigation--filter-toggle__active">Awards<!--svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 51 20">
     <polyline points="2,2 26,17 49,2"></polyline>
-</svg></a></li>
+</svg--></a></li>
                 </ul>
             </div>
-            <div class="navigation--filter hidden-xs">
+            <!--div class="navigation--filter hidden-xs">
                 <div class="page-container" id="awards-filter">
                     <div class="row">
                         <div class="col col-xs-2 col-sm-3 col-md-5 col-lg-5">
@@ -88,6 +88,6 @@
                                 <li><a href="index.php">India</a></li>
                                 <li><a href="international-awards.php">International</a></li> 
                             </ul>
-                        </div>
+                        </div-->
         </nav>
     </header>

@@ -56,10 +56,11 @@
                             <input type="text" id="fname" class="form-control" name="fname" placeholder="Name :">
                         </div>
                         <div class="email">
+                          <input type="email" id="email" class="form-control" name="email"  placeholder="Email :">
                         </div>
                             
                         <div class=" phne">
-                            <input type="text" id="phone" class="form-control" name="phone"  placeholder="Phone No :">
+                            <input type="tel" id="phone" class="form-control" name="phone"  placeholder="Phone No :">
                         </div>
                         <div class="msg">
                             <textarea rows="4" id="message" placeholder="Message :" class="form-control" name="msg" ></textarea>

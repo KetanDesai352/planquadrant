@@ -58,109 +58,7 @@
 </head>
 
 <body>
-    <!--div class="navigation__mobile hidden-sm hidden-md hidden-lg">
-        <nav class="navigation">
-            <form action="http://www.planquadrat.com/en/suche/" class="navigation--search-form">
-                <input type="search" name="tx_vierwdindexedsearch_pi2[search][sword]" required placeholder="Search">
-                <button type="submit">Search</button>
-            </form><a class="navigation--close">×</a>
-            <div class="navigation--row">
-                <ul class="navigation--main page-container">
-                    <li><a href="../index.html" class="navigation--main-link">Start</a></li>
-                    <li><a href="../profile/index.html" class="navigation--main-link">Profile</a></li>
-                    <li><a href="index.html" class="navigation--main-link active">Projects</a>
-                        <ul class="navigation--mobile-submenu visible-xs">
-                            <li><a href="" class="navigation--main-link">TYPOLOGIE</a></li>
-                            <li><a href="" class="navigation--main-link">Location</a></li>
-                            
-
-                        </ul>
-                    </li>
-                    <li><a href="../people/index.html" class="navigation--main-link">People</a></li>
-
-                    <li><a href="../pin-board/news/index.html" class="navigation--main-link">Pin board</a>
-                        <li><a href="" class="navigation--main-link">Contact Us</a>
-                </ul>
-            </div>
-        </nav>
-    </div>
-    <header class="main-header">
-        <div class="page-container logo-container">
-            <a href="../index.html#showIntro" class="logo"><img src="../img/logo.png" alt="Planquadrat"></a>
-        </div><a class="navigation--toggle">Menu</a>
-        <nav class="navigation">
-            <form action="" class="navigation--search-form">
-                <input type="search" name="tx_vierwdindexedsearch_pi2[search][sword]" required placeholder="Search">
-                <button type="submit">Search</button>
-            </form><a href="#" class="navigation--close">×</a>
-            <div class="navigation--row">
-                <ul class="navigation--main page-container">
-                    <li><a href="../index.html" class="navigation--main-link">Start</a></li>
-                    <li><a href="../profile/index.html" class="navigation--main-link">Profile</a></li>
-                    <li><a href="index.html" class="navigation--main-link active">Projects</a>
-                        <ul class="navigation--mobile-submenu visible-xs">
-                            <li><a href="" class="navigation--main-link">TYPOLOGIE</a></li>
-                            <li><a href="" class="navigation--main-link">Location</a></li>
-
-                        </ul>
-                    </li>
-                    <li><a href="../people/index.html" class="navigation--main-link">People</a></li>
-                    <li><a href="../pin-board/news/index.html" class="navigation--main-link">Pin board</a>
-                        <li><a href="" class="navigation--main-link">Contact Us</a>
-                </ul>
-            </div>
-            <div class="navigation--row hidden-xs">
-                <ul class="navigation--submenu page-container">
-                    <li><a href="index.html#project-typology" class="navigation--filter-toggle">TYPOLOGIE<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 51 20">
-    <polyline points="2,2 26,17 49,2"></polyline>
-</svg></a></li>
-                    <li><a href="index.html#project-locality" class="navigation--filter-toggle">Location<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 51 20">
-    <polyline points="2,2 26,17 49,2"></polyline>
-</svg></a></li>
-                    <li class="navigation--instant-search">
-                        <input type="text" name="project-name" placeholder="Search">
-                    </li>
-                </ul>
-            </div>
-            <div class="navigation--filter hidden-xs">
-                <ul class="page-container navigation--filter-container" id="project-typology">
-                     <li class="navigation--filter-level1"><a href="">Consultation</a></li>
-                    <li class="navigation--filter-level1"><a href="">Architecture</a>
-                    <ul><br>
-                            <li><a href="">Residential</a></li>
-                            <li><a href="">Commercial</a></li>
-                            <li><a href="">Education</a></li>
-                            <li><a href="">Hotel</a></li>
-                            <li><a href="">Industria</a></li>
-                            <li><a href="">Special Constructions</a></li>
-                            
-                    </ul>
-                </li>
-
-                    <li class="navigation--filter-level1"><a href="">urban Planning</a>
-                    <ul><br>
-                            <li><a href="">Development Plan</a></li>
-                            <li><a href="">Framework Planning</a></li>
-                            <li><a href="">Urban Development</a></li>
-                            <li><a href="">Studies</a></li>
-                            
-                    </ul>
-                </li>
-                    
-                    <li class="navigation--filter-level1"><a href="">Competition Management</a></li><br>
-                    
-                   
-                      
-                </ul>
-            </div>
-            <div class="navigation--filter hidden-xs">
-                <ul class="page-container navigation--filter-container" id="project-locality">
-                    <li class="navigation--filter-level1"><a href="index.html">India</a></li>
-                    <li class="navigation--filter-level1"><a href="international-projects.html">International</a></li>
-                </ul>
-            </div>
-        </nav>
-    </header-->
+    
     <?php include('header.php');?>
     <div class="site-wrap">
         <div class="page-container main-content main-content__submenu-visible">
@@ -207,7 +105,7 @@
                 <span class="project-list__project"><span class="project-list__project-name">Tecom Hotel<br> Dubai, United Arab Emirates</span>
                 <img src="../img/fileadmin/_processed_/d/9/csm_0586-titelbild-02_309ba8402562f3.jpg?_=1427965269"></span>
                 <a href="details/32-08025-verwaltungsgebaeude-evonik/show/index.php" class="project-list__project"><span class="project-list__project-name">Administration building Evonik<br> Hanau</span>
-                        <img src="../../fileadmin/_processed_/e/5/csm_08025-titelbild-02_483cff0ade1cef.jpg?_=1425027474"></a>
+                        <img src="../img/fileadmin/_processed_/e/5/csm_08025-titelbild-02_483cff0ade1cef.jpg"></a>
                 <span class="project-list__project"><span class="project-list__project-name">Robinson Club Steinplatte<br> 
                         Kitzbühel, Austria</span>
                 <img src="../img/fileadmin/_processed_/f/0/csm_08010-titelbild-02_21a607837b83d2.jpg?_=1425027491"></span>

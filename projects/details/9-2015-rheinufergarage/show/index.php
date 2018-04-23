@@ -135,7 +135,6 @@
                 <div class="project__description">
                     <p><?php echo $bodycontent ?></p>
                 </div>
-                <div class="project__detail-image"></div>
             </div>
             <!--TYPO3SEARCH_end-->
             <div class="related-projects no-print">

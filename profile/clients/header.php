@@ -15,7 +15,7 @@
                             <li><a href="index.php#clients-filter" class="navigation--filter-toggle navigation--filter-toggle__active">Clients<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 51 20">
     <polyline points="2,2 26,17 49,2"></polyline>
 </svg></a></li>
-                            <li><a href="../awards/index.php" class="navigation--main-link">Awards</a></li>
+                            <li><a href="../awards/international-awards.php" class="navigation--main-link">Awards</a></li>
                           
                         </ul>
                     </li>
@@ -33,7 +33,7 @@
                     <li><a href="index.php#clients-filter" class="navigation--filter-toggle navigation--filter-toggle__active">Clients<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 51 20">
     <polyline points="2,2 26,17 49,2"></polyline>
 </svg></a></li>
-                    <li><a href="../awards/index.php" class="navigation--submenu-link">Awards</a></li>
+                    <li><a href="../awards/international-awards.php" class="navigation--submenu-link">Awards</a></li>
                 </ul>
             </div>
         </nav>
@@ -76,7 +76,7 @@
                     <li><a href="index.php#clients-filter" class="navigation--filter-toggle navigation--filter-toggle__active">Clients<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 51 20">
     <polyline points="2,2 26,17 49,2"></polyline>
 </svg></a></li>
-                    <li><a href="../awards/index.php" class="navigation--submenu-link">Awards</a></li>
+                    <li><a href="../awards/international-awards.php" class="navigation--submenu-link">Awards</a></li>
                 </ul>
             </div>
             <div class="navigation--filter hidden-xs">
