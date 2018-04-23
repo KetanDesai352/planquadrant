@@ -10,6 +10,7 @@
     <title>Planquadrat</title>
    
     <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="../../css/style.css">
    <link rel="stylesheet" type="text/css" href="../../css/planquadrataabc.css" media="all">
 
     <script src="../../script/lib/modernizr-2.8.3.min06ac.js" type="text/javascript"></script>
@@ -116,130 +117,84 @@
     </header>
     <div class="site-wrap">
         <div class="page-container main-content main-content__submenu-visible">
-            <!--TYPO3SEARCH_begin-->
-            <a class="" href="">
-                    <div class="card-fullwidth color-grey">
-                        <h1>How it all started</h1></div>
-                </a>
-            <div id="c74" class="card-container">
-                
-                <a href="" class="card card__image"><img src="../../img/projects/prjct18.jpg" data-uid="5423"></a>
-                <a id="c233"></a>
-                <a id="c416"></a>
-                <div class="card  card__text card__landscape">
-                    <div class="card--container  card--container__gray-darker">
-                        <div class="card--container-content">
-                            <p>&nbsp;</p>
-                            <h2>There are many variations of passages of Lorem Ipsum available.</h2></div>
-                    </div>
+          
+            <section id=timeline>
+    <h1>HOW IT ALL STARTED</h1>
+    <p class="leader">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+    <div class="demo-card-wrapper">
+        <div class="demo-card demo-card--step1">
+            <div class="head">
+                <div class="number-box">
+                    <span>2010</span>
                 </div>
-                <a href="" class="card card__image"><img src="../../img/projects/prjct17.jpg" data-uid="5425"></a>
-                <!--a href="" class="card card__image"><img src="../../img/pic2.jpg" data-uid="5427"></a>
-                <a href="" class="card card__image"><img src="../../img/pic4.jpg" data-uid="5429"></a>
-                <a class="card" href="">
-                    <div class="card--container card--container__orange">
-                        <h1>2000</h1></div>
-                </a>
-                <a href="" class="card card__image"><img src="../../img/pic5.jpg" data-uid="5431"></a>
-                <a href="" class="card card__image"><img src="../../img/pic8.jpg" data-uid="5433"></a>
-                <a href="" class="card card__image"><img src="../../img/pic2.jpg" data-uid="5435"></a>
-                <a href="" class="card card__image"><img src="../../img/pic3.jpg" data-uid="5437"></a>
-                <a href="" class="card card__image"><img src="../../img/pic4.jpg" data-uid="5439"></a>
-                <a class="card" href="">
-                    <div class="card--container card--container__orange">
-                        <h1>2001</h1></div>
-                </a>
-                <a href="" class="card card__image"><img src="../../img/pic5.jpg" data-uid="5441"></a>
-                <a href="" class="card card__image"><img src="../../img/pic6.jpg" data-uid="5443"></a>
-                <a href="" class="card card__image"><img src="../../img/pic7.jpg" data-uid="5445"></a>
-                <a href="" class="card card__image"><img src="../../img/pic8.jpg" data-uid="5447"></a>
-                <a class="card" href="">
-                    <div class="card--container card--container__orange">
-                        <h1>2002</h1></div>
-                </a>
-                <a href="" class="card card__image"><img src="../../img/pic1.jpg" data-uid="5449"></a>
-                <a href="" class="card card__image"><img src="../../img/pic6.jpg" data-uid="5451"></a>
-                <a href="" class="card card__image"><img src="../../img/pic7.jpg" data-uid="5453"></a>
-                <a class="card" href="">
-                    <div class="card--container card--container__orange">
-                        <h1>2003</h1></div>
-                </a>
-                <a href="" class="card card__image"><img src="../../img/pic2.jpg" data-uid="5456"></a>
-                <a href="" class="card card__image"><img src="../../img/pic3.jpg" data-uid="5461"></a>
-                <a class="card" href="">
-                    <div class="card--container card--container__orange">
-                        <h1>2004</h1></div>
-                </a>
-                <a href="" class="card card__image"><img src="../../img/pic4.jpg" data-uid="5456"></a>
-                <a href="" class="card card__image"><img src="../../img/pic5.jpg" data-uid="5461"></a>
-                <a class="card" href="">
-                    <div class="card--container card--container__orange">
-                        <h1>2005</h1></div>
-                </a>
-                <a href="" class="card card__image"><img src="../../img/pic6.jpg" data-uid="5456"></a>
-                <a href="" class="card card__image"><img src="../../img/pic7.jpg" data-uid="5461"></a>
-                <a class="card" href="">
-                    <div class="card--container card--container__orange">
-                        <h1>2006</h1></div>
-                </a>
-                <a href="" class="card card__image"><img src="../../img/pic8.jpg" data-uid="5484"></a>
-                <a href="" class="card card__image"><img src="../../img/pic9.jpg" data-uid="5486"></a>
-                <a href="" class="card card__image"><img src="../../img/pic1.jpg" data-uid="5488"></a>
-                <a href="" class="card card__image"><img src="../../img/pic2.jpg" data-uid="5490"></a>
-                <a href="" class="card card__image"><img src="../../img/pic3.jpg" data-uid="5492"></a>
-                <a href="" class="card card__image"><img src="../../img/pic4.jpg" data-uid="5494"></a>
-                <a class="card" href="">
-                    <div class="card--container card--container__orange">
-                        <h1>2007</h1></div>
-                </a>
-                <a href="" class="card card__image"><img src="../../img/pic5.jpg" data-uid="5496"></a>
-                <a href="" class="card card__image"><img src="../../img/pic6.jpg" data-uid="5498"></a>
-                <a href="" class="card card__image"><img src="../../img/pic7.jpg" data-uid="5500"></a>
-                <a href="" class="card card__image"><img src="../../img/pic8.jpg" data-uid="5502"></a>
-                <a class="card" href="">
-                    <div class="card--container card--container__orange">
-                        <h1>2008</h1></div>
-                </a>
-                <a href="" class="card card__image"><img src="../../img/pic9.jpg" data-uid="5504"></a>
-                <a href="" class="card card__image"><img src="../../img/pic1.jpg" data-uid="5506"></a>
-                <a href="" class="card card__image"><img src="../../img/pic2.jpg" data-uid="5508"></a>
-                <a class="card" href="">
-                    <div class="card--container card--container__orange">
-                        <h1>2009</h1></div>
-                </a>
-                <a href="" class="card card__image"><img src="../../img/pic3.jpg" data-uid="5469"></a>
-                <a href="" class="card card__image"><img src="../../img/pic4.jpg" data-uid="5471"></a>
-                <a class="card" href="">
-                    <div class="card--container card--container__orange">
-                        <h1>2010</h1></div>
-                </a>
-                <a href="" class="card card__image"><img src="../../img/pic5.jpg" data-uid="5464"></a>
-                <a href="" class="card card__image"><img src="../../img/pic6.jpg" data-uid="5474"></a>
-                <a href="" class="card card__image"><img src="../../img/pic7.jpg" data-uid="5476"></a>
-                <a href="" class="card card__image"><img src="../../img/pic8.jpg" data-uid="5478"></a>
-                <a href="" class="card card__image"><img src="../../img/pic9.jpg" data-uid="5480"></a>
-                <a href="" class="card card__image"><img src="../../img/pic1.jpg" data-uid="5482"></a>
-                <a class="card" href="">
-                    <div class="card--container card--container__orange">
-                        <h1>2011</h1></div>
-                </a>
-                
-                <a href="" class="card card__image"><img src="../../img/pic2.jpg" data-uid="5190"></a>
-                <a href="" class="card card__image"><img src="../../img/pic3.jpg" data-uid="5192"></a>
-                <a href="" class="card card__image"><img src="../../img/pic4.jpg" data-uid="5194"></a>
-                <a class="card" href="">
-                    <div class="card--container card--container__orange">
-                        <h1>2018</h1></div>
-                </a>
-                <a href="" class="card card__image"><img src="../../img/pic5.jpg" data-uid="5060"></a>
-                <a href="" class="card card__image"><img src="../../img/pic6.jpg" data-uid="5061"></a>
-                <a href="" class="card card__image"><img src="../../img/pic7.jpg" data-uid="5062"></a>
-                <a href="" class="card card__image"><img src="../../img/pic8.jpg" data-uid="5063"></a>
-                <a href="" class="card card__image"><img src="../../img/pic9.jpg" data-uid="5064"></a>
-                <a href="" class="card card__image"><img src="../../img/pic1.jpg" data-uid="5065"></a-->
-             
-                
+                <h2><span class="small">Subtitle</span> Heading</h2>
             </div>
+            <div class="body">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
+                <img src="http://placehold.it/1000x500" alt="Graphic">
+            </div>
+        </div>
+
+        <div class="demo-card demo-card--step2">
+            <div class="head">
+                <div class="number-box">
+                    <span>2011</span>
+                </div>
+                <h2><span class="small">Subtitle</span> Heading</h2>
+            </div>
+            <div class="body">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
+                <img src="http://placehold.it/1000x500" alt="Graphic">
+            </div>
+        </div>
+
+        <div class="demo-card demo-card--step3">
+            <div class="head">
+                <div class="number-box">
+                    <span>2012</span>
+                </div>
+                <h2><span class="small">Subtitle</span> Heading</h2>
+            </div>
+            <div class="body">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
+                <img src="http://placehold.it/1000x500" alt="Graphic">
+            </div>
+        </div>
+
+        <div class="demo-card demo-card--step4">
+            <div class="head">
+                <div class="number-box">
+                    <span>2013</span>
+                </div>
+                <h2><span class="small">Subtitle</span> Heading</h2>
+            </div>
+            <div class="body">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
+                <img src="http://placehold.it/1000x500" alt="Graphic">
+            </div>
+        </div>
+
+        <div class="demo-card demo-card--step5">
+            <div class="head">
+                <div class="number-box">
+                    <span>2014</span>
+                </div>
+                <h2><span class="small">Subtitle</span> Heading</h2>
+            </div>
+            <div class="body">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
+                <img src="http://placehold.it/1000x500" alt="Graphic">
+            </div>
+        </div>
+    
+    </div>
+</section>
+
+
+
+
+
+            
             <?php include('../../footer.php');?>
         </div>
       
