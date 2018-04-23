@@ -78,8 +78,8 @@
                 </div>
                 <div class="slideshow--slides">
                     <figure>
-                        <figure class="slideshow--slide active"><img src="img/sliders/slide4.jpg " alt=""></figure>
-                        <figure class="slideshow--slide"><img src="img/sliders/slide1.jpg" alt=""></figure>
+                        <figure class="slideshow--slide active"><img src="img/sliders/slide1.jpg " alt=""></figure>
+                        <figure class="slideshow--slide"><img src="img/sliders/slide2.jpg" alt=""></figure>
                     </figure>
                 </div>
             </div>
@@ -98,7 +98,7 @@
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="img/sliders/slide1.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="img/home1.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>

@@ -32,22 +32,24 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
 </head>
 
 <body>
-    <!--div class="navigation__mobile hidden-sm hidden-md hidden-lg">
+
+<div class="navigation__mobile hidden-sm hidden-md hidden-lg">
         <nav class="navigation">
-            <form action="" class="navigation--search-form">
+            <form action="http://www.planquadrat.com/en/suche/" class="navigation--search-form">
                 <input type="search" name="tx_vierwdindexedsearch_pi2[search][sword]" required placeholder="Search">
                 <button type="submit">Search</button>
             </form><a class="navigation--close">×</a>
             <div class="navigation--row">
                 <ul class="navigation--main page-container">
-                    <li><a href="../../index.html" class="navigation--main-link">Start</a></li>
-                    <li><a href="../../profile/index.html" class="navigation--main-link">Profile</a></li>
-                    <li><a href="../../projects/index.html" class="navigation--main-link">Projects</a></li>
-                    <li><a href="../../people/index.html" class="navigation--main-link">People</a></li>
-                    <li><a href="../news/index.html" class="navigation--main-link active">Pin board</a>
+                    <li><a href="../../index.php" class="navigation--main-link">Start</a></li>
+                    <li><a href="../../profile/index.php" class="navigation--main-link">Profile</a></li>
+                    <li><a href="../../projects/index.php" class="navigation--main-link">Projects</a></li>
+                    <li><a href="../../people/index.php" class="navigation--main-link">People</a></li>
+                    <li><a href="../news/index.php" class="navigation--main-link active">Pin board</a>
+                        <li><a href="../../contact-form/contact.php" class="navigation--main-link">Contact Us</a>
                         <ul class="navigation--mobile-submenu visible-xs">
-                            <li><a href="../career/index.html" class="navigation--main-link">Career</a></li>
-                            <li><a href="index.html" class="navigation--main-link active">Press</a></li>
+                            <li><a href="../career/index.php" class="navigation--main-link">Career</a></li>
+                            <li><a href="../press/index.php" class="navigation--main-link active">Press</a></li>
                             
                         </ul>
                     </li>
@@ -56,16 +58,16 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
             </div>
             <div class="navigation--row hidden-xs">
                 <ul class="navigation--submenu page-container">
-                    <li><a href="../career/index.html" class="navigation--submenu-link">Career</a></li>
-                    <li><a href="index.html" class="navigation--submenu-link active">Press</a></li>
+                    <li><a href="../career/index.php" class="navigation--submenu-link">Career</a></li>
+                    <li><a href="../press/index.php" class="navigation--submenu-link active">Press</a></li>
                 </ul>
             </div>
         </nav>
     </div>
     <header class="main-header">
         <div class="page-container logo-container">
-            <a href="../../index.html#showIntro" class="logo"><img src="../../img/logo.png" alt="Planquadrat"></a>
-        </div><a class="navigation--toggle">Menü</a>
+            <a href="../../index.php#showIntro" class="logo"><img src="../../img/logo.png" alt="Planquadrat"></a>
+        </div><a class="navigation--toggle">Menu</a>
         <nav class="navigation">
             <form action="" class="navigation--search-form">
                 <input type="search" name="tx_vierwdindexedsearch_pi2[search][sword]" required placeholder="Search">
@@ -73,30 +75,30 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
             </form><a href="#" class="navigation--close">×</a>
             <div class="navigation--row">
                 <ul class="navigation--main page-container">
-                    <li><a href="../../index.html" class="navigation--main-link">Start</a></li>
-                    <li><a href="../../profile/index.html" class="navigation--main-link">Profile</a></li>
-                    <li><a href="../../projects/index.html" class="navigation--main-link">Projects</a></li>
-                    <li><a href="../../people/index.html" class="navigation--main-link">People</a></li>
-                    <li><a href="../news/index.html" class="navigation--main-link active">Pin board</a>
+                    <li><a href="../../index.php" class="navigation--main-link">Start</a></li>
+                    <li><a href="../../profile/index.php" class="navigation--main-link">Profile</a></li>
+                    <li><a href="../../projects/index.php" class="navigation--main-link">Projects</a></li>
+                    <li><a href="../../people/index.php" class="navigation--main-link">People</a></li>
+                    <li><a href="../news/index.php" class="navigation--main-link active">Pin board</a>
+                        <li><a href="../../contact-form/contact.php" class="navigation--main-link">Contact Us</a>
                         <ul class="navigation--mobile-submenu visible-xs">
-                            <li><a href="../career/index.html" class="navigation--main-link">Career</a></li>
-                            <li><a href="index.html" class="navigation--main-link active">Press</a></li>
-                            
+                            <li><a href="../career/index.php" class="navigation--main-link">Career</a></li>
+                            <li><a href="../press/index.php" class="navigation--main-link active">Press</a></li>
                         </ul>
                     </li>
-                   
+                    
                 </ul>
             </div>
             <div class="navigation--row hidden-xs">
                 <ul class="navigation--submenu page-container">
-                    <li><a href="../career/index.html" class="navigation--submenu-link">Career</a></li>
-                    <li><a href="index.html" class="navigation--submenu-link active">Press</a></li>
+                    <li><a href="../career/index.php" class="navigation--submenu-link">Career</a></li>
+                    <li><a href="../press/index.php" class="navigation--submenu-link active">Press</a></li>
                 </ul>
             </div>
         </nav>
-    </header-->
+    </header>
 
-    <?php include('../header.php');?>
+
     <div class="site-wrap">
         <div class="page-container main-content main-content__submenu-visible">
             <!--TYPO3SEARCH_begin-->
@@ -128,12 +130,12 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                     </div>
                 </div>
                 <div class="col col-xs-2 col-sm-2 col-md-2 col-lg-2">
-                    <a id="c268" class="card__link" href="../news/index.html">
+                    <a id="c268" class="card__link" href="../news/index.php">
                         <div class="card  card__image">
                             <div class="card--container card--container__block ">
                                 <div class="card--container-content">
                                     <div class="responsive-image ">
-                                        <figure class="csc-textpic-image"><img src="../../img/pic1.jpg" alt=""></figure>
+                                        <figure class="csc-textpic-image"><img src="../../img/profile1.jpg" alt=""></figure>
                                     </div>
                                 </div>
                             </div>
@@ -156,7 +158,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
             </div>
             <div id="c206" class="row">
                 <div class="col col-xs-2 col-sm-4 col-md-4 col-lg-4">
-                    <a id="c261" class="card__link" href="index.html">
+                    <a id="c261" class="card__link" href="index.php">
                         <div class="card  card__image">
                             <div class="card--container card--container__block ">
                                 <div class="card--container-content">

@@ -43,7 +43,7 @@
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../img/pic4.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../img/profile1.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>

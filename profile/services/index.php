@@ -166,7 +166,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/pic9.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services1.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -179,7 +179,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/projects/prjct17.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services2.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -192,7 +192,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/pic3.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services3.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -205,7 +205,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/pic7.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services4.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -236,7 +236,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/pic3.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services5.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -247,7 +247,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/pic8.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services6.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -258,7 +258,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/pic2.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services7.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -292,7 +292,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/pic5.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services8.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -303,7 +303,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/projects/prjct17.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services9.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -314,7 +314,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/pic6.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services10.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -341,7 +341,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/projects/prjct17.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services11.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -352,7 +352,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/pic6.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services12.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -384,7 +384,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/projects/prjct17.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services13.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -395,7 +395,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/pic4.jpg " alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services14.jpg " alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -406,7 +406,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/pic9.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services15.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -428,7 +428,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/pic6.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services16.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -439,7 +439,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/pic9.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services17.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -450,7 +450,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/sliders/slide2.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services18.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -483,7 +483,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/pic1.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services19.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
@@ -494,7 +494,7 @@ function linkTo_UnCryptMailto(s){location.href=decryptString(s,-2);}
                         <div class="card--container card--container__block ">
                             <div class="card--container-content">
                                 <div class="responsive-image ">
-                                    <figure class="csc-textpic-image"><img src="../../img/pic2.jpg" alt=""></figure>
+                                    <figure class="csc-textpic-image"><img src="../../img/services20.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
